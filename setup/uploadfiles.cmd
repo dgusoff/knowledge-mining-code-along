@@ -4,7 +4,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 rem Set values for your storage account
 set subscription_id=<subscription_id>
 set azure_storage_account=<storage account name>
-set azure_storage_key=<key>
+set azure_storage_key=fake
 
 
 
