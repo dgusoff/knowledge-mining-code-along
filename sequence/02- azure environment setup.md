@@ -5,30 +5,30 @@
 
 1. In the Azure Portal, search for " Deploy a Custom Template"
 
-![alt text](image.png)
+![alt text](./02-images/image.png)
 
 2. Select "Build your own template in the editor"
 
 
-![alt text](image-1.png)
+![alt text](./02-images/image-1.png)
 
 3. Paste in the contents of template.json and click "Save"
 
-![alt text](image-2.png)
+![alt text](./02-images/image-2.png)
 
 4. Modify the parameters to your liking. You may get a validation error that an existing name is already taken. Change that if neccesary. Create a new resource group or select an existing one. Then click "Review and Create"
 
-![alt text](image-3.png)
+![alt text](./02-images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](./02-images/image-4.png)
 
 5. Once the deployment completes you should have three resources in your resource group
 
-![alt text](image-5.png)
+![alt text](./02-images/image-5.png)
 
 6. Make sure the search service is in the Free tier
 
-![alt text](image-6.png)
+![alt text](./02-images/image-6.png)
 
 7. Upload blob data to storage account
 
@@ -38,18 +38,18 @@ Open the `uploadfiles.cmd` file. Replace the dummy values for subscription id, s
  
  `cd` into the Data directory
 
- `az login` and select correct subscription
+
 
  `./uploadfiles.cmd`
 
  8. Verify blob data
 
- ![alt text](image-7.png)
+ ![alt text](./02-images/image-7.png)
 
-![alt text](image-8.png)
+![alt text](./02-images/image-8.png)
 
 
-![alt text](image-9.png)
+![alt text](./02-images/image-9.png)
 
 ## If you're using existing Azure resources
 
