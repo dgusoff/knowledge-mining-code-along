@@ -13,3 +13,8 @@ https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exerci
 
 https://github.com/MicrosoftLearning/mslearn-knowledge-mining
 
+
+## AI-102 Microsft study plan
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?source=recommendations&practice-assessment-type=certification
+
