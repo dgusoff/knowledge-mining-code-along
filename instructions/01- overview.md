@@ -17,7 +17,7 @@ By the end of this module, you'll learn how to:
 
 ## Relevance to AI-102 exam
 
-[AI-102 sills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102)
+[AI-102 skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102)
 
 ![image](https://github.com/user-attachments/assets/60a8754e-d89a-45c2-953d-1f8d35844cbb)
 
@@ -51,7 +51,7 @@ az --version
 dotnet --version
 ```
 
-you should get somehting like
+you should get something like
 
 ![image](https://github.com/user-attachments/assets/be5cb239-609c-4e12-ac74-6b1ee9c8d585)
 
