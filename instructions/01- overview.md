@@ -1,5 +1,28 @@
 # Purpose
 
+All organizations rely on information to make decisions, answer questions, and function efficiently. The problem for most organizations is not a lack of information, but the challenge of finding and extracting the information from the massive set of documents, databases, and other sources in which the information is stored.
+
+
+**Azure AI Search**
+Azure AI Search provides a cloud-based solution for indexing and querying a wide range of data sources, and creating comprehensive and high-scale search solutions. With Azure AI Search, you can:
+
+* Index documents and data from a range of sources.
+* Use cognitive skills to enrich index data.
+* Store extracted insights in a knowledge store for analysis and integration.
+
+By the end of this module, you'll learn how to:
+
+* Create an Azure AI Search solution
+* Develop a search application
+
+## Relevance to AI-102 exam
+
+[AI-102 sills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102)
+
+![image](https://github.com/user-attachments/assets/60a8754e-d89a-45c2-953d-1f8d35844cbb)
+
+
+
 ## Prerequisites
 
 **Azure CLI**
