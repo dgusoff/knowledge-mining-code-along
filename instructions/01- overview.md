@@ -31,6 +31,8 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
 **Visual Studio Code**
 
+or any reasonable IDE. You'll just be editing one JSON config file and maybe looking through some code.
+
 https://code.visualstudio.com/
 
 **detnet 8 SDK**
