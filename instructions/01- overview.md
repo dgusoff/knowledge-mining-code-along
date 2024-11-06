@@ -1,5 +1,19 @@
 # Purpose
 
+## Prerequisites
+
+**Azure CLI**
+
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+**Visual Studio Code**
+
+https://code.visualstudio.com/
+
+**detnet 8 SDK**
+
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
 ## Contents
 
 
