@@ -39,6 +39,12 @@ https://code.visualstudio.com/
 
 https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
+windows installer https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
+
+package installer for Mac ARM64 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-macos-arm64-installer
+
+package installer for Mac x64 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-macos-x64-installer
+
 ## Confirm pre-reqs
 
 Make sure to add the CLI and dotnet commands to `PATH` so you can execute them readily from the terminal.
