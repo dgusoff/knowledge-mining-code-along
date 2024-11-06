@@ -37,6 +37,25 @@ https://code.visualstudio.com/
 
 https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
+## Confirm pre-reqs
+
+Make sure to add the CLI and dotnet commands to `PATH` so you can execute them readily from the terminal.
+
+Run these to verify:
+
+```
+az --version
+
+dotnet --version
+```
+
+you should get somehting like
+
+![image](https://github.com/user-attachments/assets/be5cb239-609c-4e12-ac74-6b1ee9c8d585)
+
+
+
+
 ## Contents
 
 
