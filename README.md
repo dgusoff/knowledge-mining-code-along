@@ -1,6 +1,11 @@
 # knowledge-mining-code-along
 knowledge mining code along
 
+Get started with the code along [here](./instructions/01-%20overview.md)
+
+
+
+
 
 ## resources
 
