@@ -12,6 +12,10 @@
 
 ![alt text](./03-images/image-5.png)
 
+## Note
+
+If you're interested in learning more about Searchable, Filterble, Facetable, Sortable, and Retrievable, check [this page](./index-attributes.md)
+
 ![alt text](./03-images/image-6.png)
 
 ![alt text](./03-images/image-7.png)
