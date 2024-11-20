@@ -44,3 +44,18 @@ Definition: Makes the field content searchable via full-text search.
 Use Case: Use this for fields where you want users to perform searches based on words or phrases.
 Example:
 A description field marked as searchable will allow users to find documents that contain keywords or phrases in the description.
+
+
+**Key Considerations**
+
+**Combining Attributes:**
+
+A field can have multiple attributes. For example, a productName might be retrievable, filterable, and searchable, but not sortable or facetable.
+
+**Storage and Performance:**
+
+Marking a field as searchable or facetable can increase the size of the index and may impact performance. Use these attributes judiciously.
+
+**Text Fields:**
+
+Searchable fields are typically for text and are processed using analyzers (e.g., tokenization, stemming). Non-searchable fields like numeric or date fields are often used for filtering, sorting, or faceting.
